@@ -1,6 +1,6 @@
 🚀 Part of the LocalKin Ecosystem
 
-ollamadiffuser is now proudly part of LocalKinAI, an open-source ecosystem for building your own local AI companion. From the creator of ollamadiffuser, discover the future of private AI. [Learn more about LocalKinAI here -> (https://github.com/LocalKinAI)]
+ollamadiffuser is now proudly part of LocalKinAI, an open-source ecosystem for building your own local AI companion. From the creator of ollamadiffuser, discover the future of private AI. Learn more about [LocalKinAI](https://github.com/LocalKinAI)
 
 # OllamaDiffuser 🎨
 
